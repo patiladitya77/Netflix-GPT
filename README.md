@@ -1,6 +1,9 @@
 # Netflix-GPT
  - create-react-app
  - configured tailwindcss
+ - header
+ - login form
+ - signup form
 
  # Features
  - Login/Sign up
@@ -17,3 +20,7 @@
 - Netflix-GPT
   - Search bar
   - Movie suggestions
+
+
+# tips
+ - if you have big forms, then use formik library
