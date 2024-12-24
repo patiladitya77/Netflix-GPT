@@ -12,6 +12,8 @@
 - create sign up user in firebase
 - implemenent sign in user
 - created redux store with userslice
+- implemenrted sign out
+- update profile
 
 # Features
 
