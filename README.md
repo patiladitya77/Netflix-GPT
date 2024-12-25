@@ -14,6 +14,9 @@
 - created redux store with userslice
 - implemenrted sign out
 - update profile
+- bugfix-sign up display,cannot acces /browse without login
+- unsubscribe to onAuthStateChanged callback
+- register on TMDB, register your app, get access token
 
 # Features
 
@@ -36,3 +39,12 @@
 # tips
 
 - if you have big forms, then use formik library
+
+# plan
+
+- main container
+  - video bg
+  - video title
+- secondary container
+  - movie list into n
+    - cards into n
