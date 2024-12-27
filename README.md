@@ -17,6 +17,14 @@
 - bugfix-sign up display,cannot acces /browse without login
 - unsubscribe to onAuthStateChanged callback
 - register on TMDB, register your app, get access token
+- costum hook for now playing movies
+- create movieslice
+- update store with movies data
+- planning fir main container and secondary container
+- fetch data for trailer video
+- update store with trailer vdioe data
+- embedded the youtube video and make it autoplay and mute
+- build seconary component
 
 # Features
 
