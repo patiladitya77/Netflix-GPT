@@ -25,6 +25,11 @@
 - update store with trailer vdioe data
 - embedded the youtube video and make it autoplay and mute
 - build seconary component
+- build movie list
+- build movie card
+- TMDB image url
+- usepoplularmovies custom hook
+- GPT search feature
 
 # Features
 
